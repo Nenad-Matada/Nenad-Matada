@@ -1,10 +1,10 @@
-**<span style='font-size:3.5em'>Hi there👋🏻, I am Nenad Matada</span>**
+**<span style='font-size:4em'>Hi there👋🏻, I am Nenad Matada</span>**
 
 
 🎓 Computer Science (AI/ML) Undergraduate\
 💻 Backend Development • AI/ML • Quantitative Finance
 
-**<span style='font-size:1.5em'>About Me</span>**
+**<span style='font-size:2.5em'>About Me</span>**
 
 
 I'm a Computer Science (AI/ML) undergraduate interested in building backend systems, working with data, and exploring machine learning.
@@ -18,7 +18,7 @@ Currently, enhancing my skills in:
 • Financial data and quantitative methods\
 • Understanding macroeconomic and market relationships
 
-**<span style='font-size:1.5em'>Tech Stack</span>**
+**<span style='font-size:2.5em'>Tech Stack</span>**
 
 
 **Languages**
@@ -39,13 +39,13 @@ Currently, enhancing my skills in:
 • Data Analysis\
 • Deep Learning(Basics)
 
-**<span style='font-size:1.5em'>🚀 Currently Exploring</span>**\
+**<span style='font-size:2.5em'>🚀 Currently Exploring</span>**\
 • Building backend applications and REST APIs\
 • Machine learning and practical data analysis\
 • Quantitative finance and financial datasets\
 • Macro economics and financial markets
 
-**<span style='font-size:1.5em'>Connect with Me</span>**
+**<span style='font-size:2.5em'>Connect with Me</span>**
 
 LinkedIn: linkedin.com/in/nenad-matada-54312628b\
 Email: nenadmatada4@gmail.com
