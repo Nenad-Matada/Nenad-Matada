@@ -1,4 +1,4 @@
-**<span style='font-size:3em'>Hi there👋🏻, I am Nenad Matada</span>**
+**<span style='font-size:3.5em'>Hi there👋🏻, I am Nenad Matada</span>**
 
 
 🎓 Computer Science (AI/ML) Undergraduate\
